@@ -48,6 +48,6 @@ In conclusion, the dashboard was completed successfully by adding dynamic charts
 - Additional information about the project was added as a paragraph on the page.
 - Additional information about what each chart visualizes was added under each each graph.
 
-The customized dashboard is illustarted in the figure below which can be viewed in the Github pages through the following URL: []()...
+The customized dashboard is illustarted in the figure below which can be viewed in the Github pages through the following URL: [Deployed Belly Button Biodiversity](https://taravatsh.github.io/Belly-Button-Biodiversity/).
 
 ![Dashboard](static/images/Customized_Dashboard.png)
