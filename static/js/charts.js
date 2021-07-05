@@ -160,9 +160,9 @@ function buildCharts(sample) {
       value: wFreq,
       type: "indicator",
       mode: "gauge+number",
-      title: { text: '<b> Belly Button Washing Frequency </b>' + '<br> Scrubs per Week </br>'},
+      title: { text: '<b> Belly Button Washingg Frequencyyy </b>' + '<br> Scrubs per Week </br>'},
       gauge: {
-        axis: { range: [null, 10]},
+        axis: { range: [null, 11]},
         bar: {color: "black"},
         steps: [
           {range: [0, 2], color: "red"},
