@@ -12,6 +12,10 @@ The purpose of this project is to complete building the dashboard by creating en
 - Bubble Chart
 - Gauge Chart 
 
+## Resources
+
+**Documentations:** [Gauge Chart in JavaScript](https://plotly.com/javascript/gauge-charts/), [Layout Object](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Layout.html).
+
 ## Results
 
 This section of the project focuses on the results achieved using knowldege of JavaScript, Plotly, and D3.js for creating the horizontal bar, bubble and gauge charts.
@@ -44,6 +48,6 @@ In conclusion, the dashboard was completed successfully by adding dynamic charts
 - Additional information about the project was added as a paragraph on the page.
 - Additional information about what each chart visualizes was added under each each graph.
 
-The customized dashboard is illustarted in the figure below.
+The customized dashboard is illustarted in the figure below which can be viewed in the Github pages through the following URL: []().
 
 ![Dashboard](static/images/Customized_Dashboard.png)
