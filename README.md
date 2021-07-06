@@ -50,4 +50,4 @@ In conclusion, the dashboard was completed successfully by adding dynamic charts
 
 The customized dashboard is illustarted in the figure below which can be viewed in the Github pages through the following URL: [Deployed Belly Button Biodiversity](https://taravatsh.github.io/Belly-Button-Biodiversity/).
 
-![Dashboard](static/images/Dashboard_Customized.png)
+![Dashboard](static/images/Dashboard_Customization.png)
