@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-In this project, Roza who is a biological researcher is interested in bacterial species that are capable of synthesizing proteins that taste like beef. She has a hypothesis that there is an organism that can be provide the next best taste to beef and believes it can be found from the bacteria that lives on human body. To test her hypothesis she has sampled navels of individuals across the country to identify the bacterial species that colonized the humans belly button. As a result, a website with an interactive dashboard is built to explore the dataset of the Belly Button Biodiversity.
+In this project, Roza who is a biological researcher is interested in bacterial species that are capable of synthesizing proteins that taste like beef. She has a hypothesis that there is an organism that can  provide the next best taste to beef and believes it can be found from the bacteria that live on human body. To test her hypothesis she has sampled navels of individuals across the country to identify the bacterial species that colonized the humans belly button. As a result, a website with an interactive dashboard has to be build to explore the dataset of the Belly Button Biodiversity.
 
 ### Purpose
 
-The purpose of this project is to complete building the dashboard by creating engaging and dynamic charts which displays the bacterial data for each volunteer by simply allowing the participants to select their ID numbers to be able to view the top ten bacterial species that live in their navels. By this way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, these volunteers will be able to determine whether that species is found in their navel or not. As a result of this, Plotly which is a data visualization library of JavaScript is used to build an interactive data visualization for the webpage by creating the following charts:
+The purpose of this project is to complete building the dashboard by creating engaging and dynamic charts that display the bacterial data for each volunteer by simply allowing the participants to select their ID numbers to be able to view the top ten bacterial species that live in their navels. By this way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, these volunteers will be able to determine whether the species is found in their navel or not. As a result of this, Plotly which is a data visualization library of JavaScript is used in this case for building an interactive data visualization for the webpage by creating the following charts:
 
 - Horizontal Bar Chart
 - Bubble Chart
