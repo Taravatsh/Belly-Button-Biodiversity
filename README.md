@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-In this project, Roza who is a biological researcher is interested in bacterial species that are capable of synthesizing proteins that taste like beef. She has a hypothesis that there is an organism that can  provide the next best taste to beef and believes it can be found from the bacteria that live on human body. To test her hypothesis she has sampled navels of individuals across the country to identify the bacterial species that colonized the humans belly button. As a result, a website with an interactive dashboard has to be buil to explore the dataset of the Belly Button Biodiversity.
+In this project, Roza who is a biological researcher is interested in bacterial species that are capable of synthesizing proteins that taste like beef. She has a hypothesis that there is an organism that can  provide the next best taste to beef and believes it can be found from the bacteria that live on human body. To test her hypothesis she has sampled navels of individuals across the country to identify the bacterial species that colonized the humans belly button. As a result, a website with an interactive dashboard has to be built to explore the dataset of the Belly Button Biodiversity.
 
 ### Purpose
 
